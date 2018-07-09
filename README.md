@@ -2,7 +2,8 @@
 
 Themes:
  1.C# Introduction and basic syntax
- 2.C# Conditional statement and loops*separate paragraph*
+ 2.C# Conditional statement and loops --hit
+ 
  3.Data types and variables
  4.Methods and debugging
  5.Arrays
