@@ -1,4 +1,4 @@
-# Programming-Fundamentals-May-2018-SoftUni4
+# Programming-Fundamentals-May-2018-SoftUni
 ## Software university - Course Programming fundamentals - May 2018
 
 Themes:
