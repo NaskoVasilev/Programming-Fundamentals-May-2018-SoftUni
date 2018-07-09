@@ -1,8 +1,8 @@
 # Programming-Fundamentals-May-2018-SoftUni
 
 Themes:
- 1.C# Introduction and basic syntax--hit1
- 2.C# Conditional statement and loops
+ 1.C# Introduction and basic syntax
+ 2.C# Conditional statement and loops*separate paragraph*
  3.Data types and variables
  4.Methods and debugging
  5.Arrays
