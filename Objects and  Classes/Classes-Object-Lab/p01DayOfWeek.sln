@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p01DayOfWeek", "p01DayOfWeek\p01DayOfWeek.csproj", "{41AA038A-3921-4CD9-90B9-DF001052CC1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p02RandomWords", "p02RandomWords\p02RandomWords.csproj", "{6FBFAE04-ADEB-4FC7-AB38-762928D718FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p03Factoriel", "p03Factoriel\p03Factoriel.csproj", "{06B9E943-C14A-48D2-B959-BD532377ABAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p04DistanceBetweenPoints", "p04DistanceBetweenPoints\p04DistanceBetweenPoints.csproj", "{CD446A0B-21AE-4BC9-8220-4A66C7869B4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p05ClosestPoint", "p05ClosestPoint\p05ClosestPoint.csproj", "{4879D61B-DA87-4026-9AE0-B568463671CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p06Rectangles", "p06Rectangles\p06Rectangles.csproj", "{7E6EF6FD-3F42-4F96-A75D-C2E0BD34BBE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p07SaleReport", "p07SaleReport\p07SaleReport.csproj", "{B7268E31-114D-42FF-8BAB-07BEBC368E89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41AA038A-3921-4CD9-90B9-DF001052CC1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41AA038A-3921-4CD9-90B9-DF001052CC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41AA038A-3921-4CD9-90B9-DF001052CC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41AA038A-3921-4CD9-90B9-DF001052CC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FBFAE04-ADEB-4FC7-AB38-762928D718FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBFAE04-ADEB-4FC7-AB38-762928D718FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBFAE04-ADEB-4FC7-AB38-762928D718FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBFAE04-ADEB-4FC7-AB38-762928D718FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06B9E943-C14A-48D2-B959-BD532377ABAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B9E943-C14A-48D2-B959-BD532377ABAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B9E943-C14A-48D2-B959-BD532377ABAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B9E943-C14A-48D2-B959-BD532377ABAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD446A0B-21AE-4BC9-8220-4A66C7869B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD446A0B-21AE-4BC9-8220-4A66C7869B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD446A0B-21AE-4BC9-8220-4A66C7869B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD446A0B-21AE-4BC9-8220-4A66C7869B4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4879D61B-DA87-4026-9AE0-B568463671CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4879D61B-DA87-4026-9AE0-B568463671CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4879D61B-DA87-4026-9AE0-B568463671CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4879D61B-DA87-4026-9AE0-B568463671CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E6EF6FD-3F42-4F96-A75D-C2E0BD34BBE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E6EF6FD-3F42-4F96-A75D-C2E0BD34BBE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E6EF6FD-3F42-4F96-A75D-C2E0BD34BBE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E6EF6FD-3F42-4F96-A75D-C2E0BD34BBE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7268E31-114D-42FF-8BAB-07BEBC368E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7268E31-114D-42FF-8BAB-07BEBC368E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7268E31-114D-42FF-8BAB-07BEBC368E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7268E31-114D-42FF-8BAB-07BEBC368E89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38F2B8BE-F8DD-45FE-92FE-CDD92A24E127}
+	EndGlobalSection
+EndGlobal
