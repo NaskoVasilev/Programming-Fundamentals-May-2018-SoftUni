@@ -1,6 +1,8 @@
-# Programming-Fundamentals-May-2018-SoftUni
+# Programming-Fundamentals-May-2018-SoftUni4
+## Software university - Course Programming fundamentals - May 2018
 
 Themes:
+
  1.C# Introduction and basic syntax
  
  2.C# Conditional statement and loops 
