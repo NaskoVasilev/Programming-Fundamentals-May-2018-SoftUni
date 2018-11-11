@@ -30,3 +30,5 @@ Themes:
  13. Exam preparations
  
  14. Practical exam
+ 
+ Final Exam - 400/400 points
